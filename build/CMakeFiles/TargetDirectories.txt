@@ -1,0 +1,3 @@
+/workspaces/cpp-template/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cpp-template/build/CMakeFiles/edit_cache.dir
+/workspaces/cpp-template/build/CMakeFiles/my_cpp_web_project.dir

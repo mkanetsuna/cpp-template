@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/cpp-template/build",
+  "command": "/usr/bin/c++   -I/workspaces/cpp-template/build/include  -g   -std=gnu++17 -o CMakeFiles/my_cpp_web_project.dir/src/main.cpp.o -c /workspaces/cpp-template/src/main.cpp",
+  "file": "/workspaces/cpp-template/src/main.cpp"
+}
+]
